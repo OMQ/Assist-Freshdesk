@@ -1,0 +1,23 @@
+{
+  "platform-version": "2.0",
+  "product": {
+    "freshdesk": {
+      "location": {
+        "ticket_sidebar": {
+          "url": "assist.html",
+          "icon": "icon.svg"
+        },
+
+        "ticket_conversation_editor": {
+          "url": "assist.html",
+          "icon": "icon.svg"
+        },
+
+        "full_page_app": {
+          "url": "admin.html",
+          "icon": "icon.svg"
+        }
+      }
+    }
+  }
+}

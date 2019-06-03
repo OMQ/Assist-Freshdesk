@@ -1,0 +1,6 @@
+.fdk
+.idea/*
+coverage/*
+dist/*
+.report.json
+iparam_test_data.json

@@ -1,0 +1,13 @@
+{
+  "account": {
+    "display_name": "Account",
+    "description": "Please enter the Account",
+    "type": "text"
+  },
+
+  "assistApiKey": {
+    "display_name": "Assist API Key",
+    "description": "Enter OMQ Assist API key here",
+    "type": "text"
+  }
+}
