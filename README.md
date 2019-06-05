@@ -29,7 +29,7 @@ You can also individually search for an answer if you want to use a different an
 
 ## How to install the Freshdesk app?
 
-You will find the integration description here [Freshdek integration](https://www.omq.ai/blog/freshdesk-omq-assist/). OMQ Assist will be installed from the [Freshdesk marketplace](https://www.freshworks.com/apps/freshdesk/)
+You will find the integration description here Freshdek integration. OMQ Assist will be installed from the Freshdesk marketplace.
 
 
 ## Anything else?
